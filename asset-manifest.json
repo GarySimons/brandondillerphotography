@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/brandondillerphotography/static/css/main.e6c13ad2.css",
+    "main.js": "/brandondillerphotography/static/js/main.7da34b26.js",
+    "static/js/592.03f205ac.chunk.js": "/brandondillerphotography/static/js/592.03f205ac.chunk.js",
+    "index.html": "/brandondillerphotography/index.html",
+    "main.e6c13ad2.css.map": "/brandondillerphotography/static/css/main.e6c13ad2.css.map",
+    "main.7da34b26.js.map": "/brandondillerphotography/static/js/main.7da34b26.js.map",
+    "592.03f205ac.chunk.js.map": "/brandondillerphotography/static/js/592.03f205ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7da34b26.js"
+  ]
+}
